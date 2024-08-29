@@ -1,5 +1,5 @@
 let timeout;
-const apiKey = "4d5781c1";
+const apiKey = "7c2cb370";
 const resultsDiv = document.getElementById('results');
 const modal = document.getElementById('myModal');
 const closeModalBtn = document.getElementById('closeModalBtn');
